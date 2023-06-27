@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="termcolor" />
+            <item index="1" class="java.lang.String" itemvalue="junitxml" />
+            <item index="2" class="java.lang.String" itemvalue="pytest-repeat" />
+            <item index="3" class="java.lang.String" itemvalue="selenium" />
+            <item index="4" class="java.lang.String" itemvalue="pytest" />
+            <item index="5" class="java.lang.String" itemvalue="allure-python-commons" />
+            <item index="6" class="java.lang.String" itemvalue="pytest-xdist" />
+            <item index="7" class="java.lang.String" itemvalue="junit2html" />
+            <item index="8" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="9" class="java.lang.String" itemvalue="yaml2pyclass" />
+            <item index="10" class="java.lang.String" itemvalue="binance" />
+            <item index="11" class="java.lang.String" itemvalue="kraken" />
+            <item index="12" class="java.lang.String" itemvalue="requests" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="openpyxl.open" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
